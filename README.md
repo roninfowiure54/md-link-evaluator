@@ -80,3 +80,6 @@ This runs the Node.js native test runner on the `tests/` directory.
 
 ---
 *Released under the MIT License by jocck96.*
+
+---
+*Released under the MIT License by roninfowiure54.*
