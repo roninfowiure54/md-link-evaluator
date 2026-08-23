@@ -1,0 +1,19 @@
+{
+  "name": "md-link-evaluator",
+  "version": "1.0.0",
+  "description": "A fast, concurrent markdown link checker with zero external dependencies.",
+  "type": "module",
+  "main": "src/checker.js",
+  "scripts": {
+    "start": "node src/checker.js",
+    "test": "node --test tests/"
+  },
+  "keywords": [
+    "markdown",
+    "link-checker",
+    "cli",
+    "zero-dependency"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
